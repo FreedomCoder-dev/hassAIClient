@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hassAI Client</string>
+    <string name="permission_rationale">We need audio access so you can talk to your assistant.</string>
+    <string name="microphone">Microphone</string>
+    <string name="send">Send</string>
+    <string name="listening">Listening…</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="voice_hint">Your voice is live. Say something to Home Assistant.</string>
+</resources>

@@ -1,0 +1,13 @@
+# Android build outputs
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/local.properties
+/android/.idea/
+
+# Python virtual environments
+/backend/.venv/
+/__pycache__/
+
+# OS files
+.DS_Store
